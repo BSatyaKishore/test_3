@@ -1,8 +1,8 @@
 # Site settings
 title: Enebular Blog
 description: A blog to write about how to make with enebular
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bsatyakishore.github.io/test_3" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/test_3" # the subpath of your site, e.g. /blog
+url: "https://bsatyakishore.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Lorem Ipsum
