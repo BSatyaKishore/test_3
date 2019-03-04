@@ -1,6 +1,6 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
+title: Enebular Blog
+description: A blog to write about how to make with enebular
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bsatyakishore.github.io/test_3" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
